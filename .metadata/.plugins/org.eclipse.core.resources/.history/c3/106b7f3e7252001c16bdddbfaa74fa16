@@ -1,0 +1,5 @@
+package com.sjp.moviecatalogservice.resource;
+
+public class MovieCatalogResource {
+
+}

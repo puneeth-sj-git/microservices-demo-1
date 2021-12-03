@@ -1,0 +1,5 @@
+package com.sjp.ratingdataservice.resource;
+
+public class RatingResource {
+
+}

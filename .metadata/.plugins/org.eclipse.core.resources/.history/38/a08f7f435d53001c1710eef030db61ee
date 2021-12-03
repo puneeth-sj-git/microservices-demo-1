@@ -1,0 +1,5 @@
+package com.sjp.ratingdataservice.model;
+
+public class UserRating {
+
+}

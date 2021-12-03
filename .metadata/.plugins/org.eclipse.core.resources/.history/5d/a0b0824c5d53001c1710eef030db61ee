@@ -1,0 +1,8 @@
+package com.sjp.ratingdataservice.model;
+
+import java.util.List;
+
+public class UserRating {
+	private List<Rating> ratings;
+	
+}
